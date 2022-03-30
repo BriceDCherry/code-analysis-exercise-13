@@ -23,15 +23,9 @@ Inputs and outputs should be valid JavaScript values!
 
 | Input | Output |
 | ----- | ------ |
-| "Brice", "Cherry" 27      |     firstName: Brice
-                                  lastName: Cherry
-                                  age: 27        | 
-| "Kyle", "Coberly" 35      |     firstName: Kyle
-                                  lastName: Coberly
-                                  age: 35   | 
-|  "Shawn", "Cannon" 30     |     firstName: Shawn
-                                  lastName: Cannon
-                                  age: 30   | 
+| "Brice", "Cherry" 27      |     firstName: "Brice", lastName: "Cherry", age: 27   | 
+| "Kyle", "Coberly" 35      |     firstName: "Kyle", lastName: "Coberly", age: 35   | 
+|  "Shawn", "Cannon" 30     |     firstName: "Shawn", lastName: "Cannon", age: 30   | 
 
 <table>
   <tr>
